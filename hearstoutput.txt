@@ -1,0 +1,209 @@
+Case 1:
+HYPONYM(schedule, information)
+HYPONYM(Bureau, agency)
+HYPONYM(exhibition, event)
+HYPONYM(example, work)
+HYPONYM(book, work)
+HYPONYM(Museum, museum)
+HYPONYM(can, container)
+HYPONYM(Episcopalians, Christians)
+HYPONYM(woman, people)
+HYPONYM(Hezbollah, group)
+HYPONYM(London, city)
+HYPONYM(drawing, writing)
+HYPONYM(lyric, writing)
+HYPONYM(story, narrative)
+HYPONYM(vole, creature)
+HYPONYM(bird, creature)
+HYPONYM(hare, creature)
+HYPONYM(change, change)
+HYPONYM(China, country)
+HYPONYM(Russia, country)
+HYPONYM(fair, event)
+HYPONYM(fiddle, instrument)
+HYPONYM(rice, food)
+HYPONYM(grain, food)
+HYPONYM(meat, food)
+HYPONYM(association, group)
+HYPONYM(India, country)
+HYPONYM(Germany, country)
+HYPONYM(Guthrie, musician)
+HYPONYM(Bridgeport, city)
+HYPONYM(church, organization)
+HYPONYM(opera, music)
+HYPONYM(Kuwait, country)
+HYPONYM(China, country)
+HYPONYM(stroke, sign)
+HYPONYM(stroke, event)
+HYPONYM(Tehran, city)
+HYPONYM(mayor, leader)
+HYPONYM(height, attribute)
+HYPONYM(Australia, country)
+HYPONYM(Canada, country)
+HYPONYM(Japan, country)
+HYPONYM(Singapore, country)
+HYPONYM(minivan, vehicle)
+HYPONYM(Tehran, city)
+HYPONYM(Tehran, city)
+HYPONYM(gasoline, fuel)
+HYPONYM(civet, animal)
+HYPONYM(valve, piece)
+HYPONYM(computer, device)
+
+Case 2:
+HYPONYM(construction, park)
+HYPONYM(Building, skyscraper)
+HYPONYM(book, catalog)
+HYPONYM(grant, award)
+HYPONYM(payment, compensation)
+HYPONYM(state, field)
+HYPONYM(space, place)
+HYPONYM(money, budget)
+HYPONYM(unit, maker)
+HYPONYM(payment, benefit)
+HYPONYM(assault, abuse)
+HYPONYM(region, area)
+HYPONYM(film, footage)
+HYPONYM(building, outbuilding)
+HYPONYM(award, Oscars)
+HYPONYM(feeling, suffering)
+HYPONYM(assault, charge)
+HYPONYM(proposal, recommendation)
+HYPONYM(music, score)
+HYPONYM(fact, detail)
+HYPONYM(family, people)
+HYPONYM(cognition, process)
+HYPONYM(reduction, cut)
+HYPONYM(rocket, missile)
+HYPONYM(assault, charge)
+HYPONYM(creation, innovation)
+HYPONYM(people, audience)
+HYPONYM(party, bash)
+HYPONYM(line, song)
+HYPONYM(choice, device)
+HYPONYM(organization, society)
+HYPONYM(image, montage)
+HYPONYM(executive, insider)
+HYPONYM(executive, insider)
+HYPONYM(chemical, product)
+HYPONYM(building, institution)
+HYPONYM(control, containment)
+HYPONYM(group, agency)
+HYPONYM(information, intelligence)
+HYPONYM(welfare, interest)
+HYPONYM(action, way)
+HYPONYM(event, task)
+HYPONYM(bird, fowl)
+HYPONYM(friend, fan)
+HYPONYM(program, fare)
+HYPONYM(assault, charge)
+HYPONYM(cost, expense)
+HYPONYM(number, base)
+HYPONYM(control, authority)
+HYPONYM(content, way)
+
+Case 3:
+HYPONYM(stadium, site)  incorrect
+HYPONYM(care, day)      incorrect
+HYPONYM(Iraq, crime)    incorrect
+HYPONYM(terrorism, conspiracy) correct
+HYPONYM(overtime, expense)     incorrect
+HYPONYM(commander, official)   correct
+HYPONYM(Jews, refugee)         correct
+HYPONYM(way, reform)           incorrect
+HYPONYM(Canada, war)           incorrect
+HYPONYM(Canada, nation)        correct
+HYPONYM(Turkmen, minority)     correct
+HYPONYM(Christians, minority)  correct
+HYPONYM(Rove, official)        correct
+HYPONYM(president, official)   correct
+HYPONYM(Canada, war)           incorrect
+HYPONYM(cash, compensation)    correct
+HYPONYM(payment, restriction)  incorrect
+HYPONYM(founder, executive)    correct
+HYPONYM(chairman, executive)   correct
+HYPONYM(Knoll, design)         incorrect
+HYPONYM(Frau, design)          incorrect
+HYPONYM(Waterworks, design)    incorrect
+HYPONYM(crime, problem)        correct
+HYPONYM(Chicago, part)         incorrect
+HYPONYM(Usher, artist)         correct
+HYPONYM(ham, cuisine)          correct
+HYPONYM(cheese, cuisine)       correct
+HYPONYM(area, Airport)         incorrect
+HYPONYM(implant, repair)       incorrect
+HYPONYM(cash, compensation)    correct
+HYPONYM(firecracker, ceremony) incorrect
+HYPONYM(Eleven, member)        incorrect
+HYPONYM(book, way)             incorrect
+HYPONYM(journalism, field)     correct
+HYPONYM(robe, vehicle)         incorrect
+HYPONYM(propulsion, system)    correct
+HYPONYM(evaluation, monitoring)incorrect
+HYPONYM(salesperson, passenger)correct
+HYPONYM(influenza, ailment)    incorrect
+HYPONYM(State, opponent)       incorrect
+HYPONYM(airliner, attack)      incorrect
+HYPONYM(slaughter, character)  correct
+HYPONYM(China, Asia)           correct
+HYPONYM(classmate, people)     correct
+HYPONYM(friend, people)        correct
+HYPONYM(stint, year)           incorrect
+HYPONYM(Eleven, member)        incorrect
+HYPONYM(astronaut, employee)   correct
+
+48% correctness
+
+Case 4:
+HYPONYM(building, wireless phone call)                     incorrect
+HYPONYM(quality, wireless phone call)                      incorrect
+HYPONYM(award, five Tonys)                                 incorrect
+HYPONYM(award, Tonys)                                      incorrect
+HYPONYM(disease control center, scientist)                 incorrect
+HYPONYM(strain, influenza strain)                          correct
+HYPONYM(airliner, terrorist attack)                        incorrect
+HYPONYM(Muslim Student Association, many American Muslims) incorrect
+HYPONYM(Muslim Student Association, Muslims)     incorrect
+HYPONYM(Islamic Society, many American Muslims)  incorrect
+HYPONYM(Islamic Society, Muslims)                incorrect
+HYPONYM(Erez, place)                              correct
+HYPONYM(Sheik Yassin, four senior Hamas leader)   correct
+HYPONYM(Sheik Yassin, leader)                     correct
+HYPONYM(tax cut, Some Bush policy)                correct
+HYPONYM(tax cut, policy)                          correct
+HYPONYM(new initiative, reform effort)            correct
+HYPONYM(new initiative, effort)                   correct
+HYPONYM(cut, bankrupt company)             incorrect
+HYPONYM(step, bankrupt company)            incorrect
+HYPONYM(Kaiser, steel company)             correct
+HYPONYM(ational, steel company)            correct
+HYPONYM(ational, company)                  correct
+HYPONYM(Bethlehem Steel, steel company)    correct
+HYPONYM(Bethlehem Steel, company)          correct
+HYPONYM(Macintoshes, combined unit volume)  incorrect
+HYPONYM(iPods, combined unit volume)        incorrect
+HYPONYM(two former chief executive, company)incorrect
+HYPONYM(Skilling, company)                  correct
+HYPONYM(two Republican member, plan)        incorrect
+HYPONYM(One Group, investigation)           incorrect
+HYPONYM(Mr. Vibetti, analyst)               correct
+HYPONYM(Tibetan nun, detention)             incorrect
+HYPONYM(family member, 400 people)          correct
+HYPONYM(family member, people)              correct
+HYPONYM(classmate, 400 people)              correct
+HYPONYM(friend, 400 people)                 correct
+HYPONYM(Gates Foundation, organization)     correct
+HYPONYM(stint, 35 year)                     incorrect
+HYPONYM(Eleven, crew member)                incorrect
+HYPONYM(credit card, product)               correct
+HYPONYM(bank merger, merger)                correct
+HYPONYM(health care, issue)                 correct
+HYPONYM(pool, rescue worker)                incorrect
+HYPONYM(police officer, rescue worker)      correct
+HYPONYM(police officer, worker)             correct
+HYPONYM(firefighter, rescue worker)         correct
+HYPONYM(small electric motor, transducer)   correct
+HYPONYM(network security, complication)     incorrect
+
+56% correctness
+
